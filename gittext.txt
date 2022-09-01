@@ -1,0 +1,19 @@
+d:
+
+git init
+
+git add gittext
+
+git commit -m
+
+git config --global user.email " "
+git config --global user.name " "
+
+git commit  -m "설명"
+
+
+git remote add origin 경로
+
+git remote -v 경로 확인
+
+git push origin master
